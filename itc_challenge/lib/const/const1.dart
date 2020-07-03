@@ -1,0 +1,2 @@
+final String API_ROOT = 'http://94.182.190.122/authentication/signin';
+final String token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjo2NSwibmFtZSI6ImN5YmVyIFNvdWxzIn0sImlhdCI6MTU5MzY4Njc4NSwiZXhwIjoxNTkzNzM2Nzg1fQ.-ltln681mlyN0LNp1j7vo8uIo7DAN5CmkYZtfThWDEo';
